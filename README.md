@@ -18,8 +18,8 @@ This project walks through the process of building a GPT-2 style language model 
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/gpt2-from-scratch.git
-cd gpt2-from-scratch
+git clone https://github.com/alok-8303/LLM-from-Scratch.git
+cd LLM-from-Scratch
 
 # Create and activate a virtual environment (optional)
 python -m venv venv
