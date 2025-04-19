@@ -78,6 +78,3 @@ The implementation can be found in the `Chapter6/poem_classification` directory.
 
 Special thanks to Sebastian Raschka for his excellent book that made this implementation possible.
 
-## 📄 License
-
-This project is licensed under the Apache-2.0 License - see the LICENSE file for details.
